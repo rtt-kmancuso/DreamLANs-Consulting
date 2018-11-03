@@ -26,13 +26,22 @@ class Main extends React.Component {
           <span className="image main"><img src={pic02} alt="" /></span>
           <p>//IT Consulting</p>
           <p>Whether you have an established IT infrastructure, or you are looking for guidance on where to go, let DreamLANs work with you to find the most practical solution to fit your needs.</p>
+          <br></br>
+          <p>//Audio/Video/Control Solutions</p>
+          <p>It's Saturday afternoon during football season. Do you know what your TV's are doing? Great video can make or break a gathering and we want to make sure than no matter which TV in the house you're piled around, you've got the best seat in the house every time!</p>
+          <p>It's dinner time; the kids are playing, the spouse is out in the shop or the yard and you're ready for some tunes. With a Whole-Home distributed audio system, you can get the jams you want in whatever room you want! This sounds awesome, right!? We have a solution just for you! Give us a call today to discuss your options!</p>
+          <br></br>
+          <p>//Hardware Installation</p>
+          <p>Desktops? Servers? Routers? Custom or proprietary hardware? Retail? TV's and speakers? We do it all. From the smallest gadgets to the largest projectors, TVs and sound systems... We've got you covered.</p>
+
+
           {close}
         </article>
 
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About</h2>
           <span className="image main"><img src={pic03} alt="" /></span>
-          <p>We're all about technology, and we're even more about providing the quality that you need in an IT vendor. We want to set an expectation of excellence in everything that we do, and we promise to stand by that word. From the simple reboots, to the in-depth technical challenges it's all about quality service. Reach out today to see how we can help you!</p>
+          <p>DreamLANs was birthed from the idea that we love tech, and we love helping people. We have over 8 years of professional knowledge in the IT and Audio/Video Industries, and we're ready to put it to work for you! </p>
           {close}
         </article>
 
