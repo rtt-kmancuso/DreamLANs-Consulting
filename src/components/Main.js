@@ -23,8 +23,8 @@ class Main extends React.Component {
         <article id="work" className={`${this.props.article === 'work' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Services</h2>
           <span className="image main"><img src={pic02} alt="" /></span>
-          <p>| IT Consulting | </p>
-          <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+          <p>| IT Consulting |</p>
+          <p>Whether you have an established IT infrastructure, or you are looking for guidance on where to go, let DreamLANs work with you to take the hassle out of IT.</p>
           {close}
         </article>
 
