@@ -24,7 +24,7 @@ class Main extends React.Component {
           <h2 className="major">Services</h2>
           <span className="image main"><img src={pic02} alt="" /></span>
           <p>| IT Consulting |</p>
-          <p>Whether you have an established IT infrastructure, or you are looking for guidance on where to go, let DreamLANs work with you to find the best, and most practical solution for your needs.</p>
+          <p>Whether you have an established IT infrastructure, or you are looking for guidance on where to go, let DreamLANs work with you to find the most practical solution to fit your needs.</p>
           {close}
         </article>
 
