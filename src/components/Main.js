@@ -1,9 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import pic01 from '../images/iphone.png'
+import pic01 from '../images/computer1.png'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
+import pic04 from '../images/iphone.png'
 
 class Main extends React.Component {
   render() {
@@ -37,6 +38,7 @@ class Main extends React.Component {
 
         <article id="contact" className={`${this.props.article === 'contact' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Contact</h2>
+          <span className="image main"><img src={pic04} alt="" /></span>
           <form method="post" action="#">
             <div className="field half first">
               <label htmlFor="name">Name</label>
