@@ -24,14 +24,14 @@ class Main extends React.Component {
         <article id="work" className={`${this.props.article === 'work' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Services</h2>
           <span className="image main"><img src={pic02} alt="" /></span>
-          <p>//IT Consulting</p>
+          <p>// IT Consulting</p>
           <p>Whether you have an established IT infrastructure, or you are looking for guidance on where to go, let DreamLANs work with you to find the most practical solution to fit your needs.</p>
           <br></br>
-          <p>//Audio/Video/Control Solutions</p>
+          <p>// Audio/Video/Control Solutions</p>
           <p>It's Saturday afternoon during football season. Do you know what your TV's are doing? Great video can make or break a gathering and we want to make sure than no matter which TV in the house you're piled around, you've got the best seat in the house every time!</p>
           <p>It's dinner time; the kids are playing, the spouse is out in the shop or the yard and you're ready for some tunes. With a Whole-Home distributed audio system, you can get the jams you want in whatever room you want! This sounds awesome, right!? We have a solution just for you! Give us a call today to discuss your options!</p>
           <br></br>
-          <p>//Hardware Installation</p>
+          <p>// Hardware Installation</p>
           <p>Desktops? Servers? Routers? Custom or proprietary hardware? Retail? TV's and speakers? We do it all. From the smallest gadgets to the largest projectors, TVs and sound systems... We've got you covered.</p>
 
 
