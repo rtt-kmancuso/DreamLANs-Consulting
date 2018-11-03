@@ -1,0 +1,45 @@
+{
+  "parser": "babel-eslint",
+  "plugins": [
+    "prettier",
+    "react",
+    "standard"
+  ],
+  "extends": [
+    "standard",
+    "plugin:react/recommended",
+    "prettier",
+    "prettier/react",
+    "prettier/standard"
+  ],
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "env": {
+    "browser": true,
+    "es6": true,
+    "jest": true,
+    "node": true
+  },
+  "rules": {
+    "prettier/prettier": ["error", {
+      "printWidth": 100,
+      "trailingComma": "none",
+      "useTabs": false,
+      "bracketSpacing": true,
+      "jsxBracketSameLine": true,
+      "tabWidth": 2,
+      "semi": false,
+      "singleQuote": true,
+      "arrowParens": "avoid"
+    }]
+  },
+  "settings": {
+    "react": {
+      "version": "16.4"
+    }
+  }
+}
