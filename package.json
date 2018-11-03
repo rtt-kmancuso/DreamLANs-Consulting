@@ -1,8 +1,11 @@
 {
-  "name": "gatsby-starter-dimension-v2",
-  "description": "Gatsby Starter - Dimension V2",
-  "version": "1.0.0",
-  "author": "Hunter Chang",
+  "name": "dreamlans-consulting",
+  "description": "DreamLANs Consulting Website",
+  "version": "0.0.2",
+  "author": "Kyle Mancuso <kyle.mancuso@gmail.com>",
+  "contributors": [
+    "Josef Aidt <josef.aidt@gmail.com> (https://github.com/josefaidt)"
+  ],
   "dependencies": {
     "gatsby": "^2.0.0",
     "gatsby-plugin-manifest": "^2.0.2",
@@ -39,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/kylemmancuso/DreamLANs-Consulting"
   }
 }
