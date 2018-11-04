@@ -168,11 +168,11 @@ export default class Main extends Component {
                 <span className="label">Facebook</span>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#" className="icon fa-instagram">
                 <span className="label">Instagram</span>
               </a>
-            </li>
+            </li> */}
           </ul>
           {close}
         </article>
