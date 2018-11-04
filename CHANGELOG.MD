@@ -3,6 +3,10 @@ All notable changes to the [DreamLANs Consulting](https://github.com/kylemmancus
 
 ## [Unreleased]
 ---
+## [0.0.3] - 2018-11-04
+### Removed
+- Instagram Link on contact page fixes #2
+
 ## [0.0.2] - 2018-11-03
 ### Added
 - ESLint + Prettier, added script to fix
