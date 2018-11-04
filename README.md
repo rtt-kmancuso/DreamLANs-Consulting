@@ -1,19 +1,15 @@
-# gatsby-starter-dimension
+# DreamLANs Consulting
 
-**This is a starter for Gatsby.js V2.**
+![GitHub package version](https://img.shields.io/github/package-json/v/kylemmancuso/DreamLANs-Consulting.svg?style=flat-square)
 
-**The older V1 version of this starter can be found on the v1 branch:**
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+![dependencies](https://img.shields.io/david/kylemmancuso/DreamLANs-Consulting.svg?style=flat-square)
+![dev dependencies](https://img.shields.io/david/dev/kylemmancuso/DreamLANs-Consulting.svg?style=flat-square)
+![License](https://img.shields.io/github/license/kylemmancuso/DreamLANs-Consulting.svg?style=flat-square)
 
-Gatsby.js V2 starter based on the Dimension site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
+Official website for DreamLANs Consulting, LLC built using [Gatsby.js](https://gatsbyjs.org), hosted by [Netlify](https://netlify.com). Visit us at [dreamlans.com](https://dreamlans.com/)
 
-## Preview
+> DreamLANs Consulting was built with a simple goal in mind and that is to take the hassle out of every aspect of technology that people commonly face. Whether it's basic PC support, or Corporate IT services and even Custom Audio/Video or Automation solutions. We want to take the stress off of your shoulders.
 
-https://gatsby-dimension.surge.sh/
-
-## Installation
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-dimension https://github.com/codebushi/gatsby-starter-dimension`
-
-Run `gatsby develop` in the terminal to start the dev site.
+---
+&copy; 2018 DreamLANs Consulting, LLC
