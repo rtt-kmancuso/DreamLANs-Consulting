@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "DreamLANs Consulting, LLC.",
     author: "Kyle Mancuso",
-    description: "Gatsby.js Starter based on Dimension by HTML5 UP"
+    description: "DreamLANs, LLC."
   },
   plugins: [
     'gatsby-plugin-react-helmet',
