@@ -12,4 +12,4 @@ Official website for DreamLANs Consulting, LLC built using [Gatsby.js](https://g
 > DreamLANs Consulting was built with a simple goal in mind and that is to take the hassle out of every aspect of technology that people commonly face. Whether it's basic PC support, or Corporate IT services and even Custom Audio/Video or Automation solutions. We want to take the stress off of your shoulders.
 
 ---
-&copy; 2018 DreamLANs Consulting, LLC
+&copy; 2022 DreamLANs Consulting, LLC
